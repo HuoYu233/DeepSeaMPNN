@@ -1,0 +1,9 @@
+{
+  "total_size": 6820,
+  "train_val_size": 5820,
+  "test_size": 1000,
+  "test_ratio": 0.15,
+  "seed": 42,
+  "train_val_file": "./dataset56_pkl/splits/train_val_data.pkl",
+  "test_file": "./dataset56_pkl/splits/test_data.pkl"
+}
